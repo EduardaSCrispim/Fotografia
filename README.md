@@ -1,29 +1,88 @@
-# A fotografia veste memórias
-> Conecte-se com o mundo através da lente
+ <div align="center">
 
-Você já parou para pensar que cada foto é um superpoder? 
+# 📷 FOTOGRAFIA
 
-Fotografar é a única alquimia humana capaz de parar o tempo, congelar a luz e eternizar um sentimento. 
-A nossa jornada visual não começou com as telas digitais ou com a pressa dos filtros das redes sociais. 
-Ela nasceu do desejo profundo de resgatar o mundo exatamente como o vemos  e, acima de tudo, como o sentimos.
+### *A fotografia veste memórias.*
 
-Fotografar vai muito além de apertar um botão ou encontrar o ângulo perfeito. 
-É sobre sentir o peso invisível daquilo que se vê. 
-É sobre garimpar poesia onde a maioria enxerga apenas o comum. 
-É sobre ser você, despido de filtros, vestindo o tempo com as suas próprias memórias.
+Um projeto individual que transforma minha paixão pela fotografia em uma experiência digital.
 
-### — Sinta o Clique —
+<br>
 
-Este espaço é o seu novo laboratório de descobertas. 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
 
-Não vim aqui para listar datas rígidas ou manuais técnicos. 
-O convite é outro: quero que você sinta a textura dos primeiros papéis fotográficos e o peso das antigas câmeras mecânicas. 
+</div>
 
-Ajuste o seu foco. Mude a sua perspectiva. Explore as galerias.
-Não deixe que os outros mudem quem você é de verdade. 
->O mundo da fotografia está esperando pelo seu olhar.
+---
 
-Explore este espaço com calma. 
-Permita-se saborear cada história 
-e aproveite o conteúdo que criei especialmente para o seu olhar. 
->A casa é sua.
+## ✨ Navegue pelo projeto
+
+- [Sobre o projeto](#-sobre-o-projeto)
+- [Funcionalidades](#-funcionalidades)
+- [Tecnologias](#-tecnologias)
+- [Banco de dados](#-banco-de-dados)
+- [Estrutura do projeto](#-estrutura-do-projeto)
+- [Motivação](#-motivação)
+
+---
+
+## 🌷 Sobre o projeto
+
+A fotografia sempre foi uma forma especial de registrar momentos, contar histórias e preservar memórias. A partir desse interesse pessoal, nasceu o **Fotografia**, um projeto individual que une minha paixão pela fotografia ao meu aprendizado em desenvolvimento web.
+
+A proposta é explorar esse universo de maneira interativa, reunindo recursos de cadastro, login e um questionário sobre a história da fotografia.
+
+Mais do que um exercício de programação, este projeto representa a oportunidade de transformar um hobby em algo desenvolvido por mim, aplicando conhecimentos técnicos em um tema com o qual me identifico.
+
+## 📸 Funcionalidades
+
+| Funcionalidade | Descrição |
+|---|---|
+| 👤 Cadastro | Permite o cadastro de usuários na plataforma. |
+| 🔐 Login | Permite que usuários acessem a plataforma. |
+| 📚 História da fotografia | Questionário interativo para explorar conhecimentos sobre a história da fotografia. |
+
+## 🎨 Tecnologias
+
+As tecnologias utilizadas no desenvolvimento foram:
+
+<div align="center">
+
+| Tecnologia | Aplicação |
+|:---:|---|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Estrutura das páginas |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Estilização e identidade visual |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square) | Banco de dados |
+
+</div>
+
+## 🗄️ Banco de dados
+
+O projeto também contempla uma estrutura de banco de dados, organizada em arquivos de código e modelagem.
+
+<details>
+<summary>🔎 Explorar arquivos do banco de dados</summary>
+
+- [Código do banco de dados](./FOTOGRAFIA/banco-de-dados/codigo)
+- [Modelagem do banco de dados](./FOTOGRAFIA/banco-de-dados/modelagem)
+
+
+
+## 💗 Motivação
+
+Este projeto surgiu de um hobby e da vontade de explorar como a tecnologia pode se conectar com interesses pessoais.
+
+Desenvolvê-lo individualmente foi uma oportunidade de exercitar minha criatividade, colocar conhecimentos em prática e construir algo que representa um pouco do que gosto.
+
+Afinal, a fotografia registra histórias. E este projeto também conta uma.
+
+---
+
+<div align="center">
+
+**Feito com carinho e código. ♡**
+
+*Fotografia — A fotografia veste memórias.*
+
+</div>
